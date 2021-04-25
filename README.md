@@ -9,3 +9,7 @@ MyMetrics is a web based application where users can login and record any person
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
+
+<!-- HELP -->
+## Questions? Need help?
+Unfortunately, we are not answering any questions at this time.
