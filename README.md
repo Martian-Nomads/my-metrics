@@ -12,4 +12,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- HELP -->
 ## Questions? Need help?
-Unfortunately, we are not answering any questions at this time.
+Unfortunately, we are not answering any questions at this time. This project is still under construction.
