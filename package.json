@@ -1,0 +1,24 @@
+{
+	"name": "my-metrics",
+	"version": "1.0.0",
+	"description": "TBD",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"prepare": "husky install",
+		"format": "npm run format --prefix ./server/"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Martian-Nomads/my-metrics.git"
+	},
+	"author": "",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/Martian-Nomads/my-metrics/issues"
+	},
+	"homepage": "https://github.com/Martian-Nomads/my-metrics#readme",
+	"devDependencies": {
+		"husky": "^6.0.0"
+	}
+}
