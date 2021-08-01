@@ -3,6 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 import '@fontsource/roboto';
 import Button from '@material-ui/core/Button';
+import Accessibility from '@material-ui/icons/Accessibility';
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
         </p>
 		<Button variant="contained" color="primary">
 			Material UI button!
+			<Accessibility></Accessibility>
 		</Button>
       </header>
     </div>
