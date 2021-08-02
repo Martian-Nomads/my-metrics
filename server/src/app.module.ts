@@ -11,7 +11,7 @@ import { UsersModule } from './users/users.module';
 			type: 'postgres',
 			host: 'localhost',
 			port: 5432,
-			username: 'metricsadmin', //custom localhost test user I created.
+			username: 'metricsadmin',
 			password: 'metrics',
 			database: 'metricsdb',
 			entities: [User],
